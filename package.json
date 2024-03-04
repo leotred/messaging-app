@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "1.22.0",
     "npm": "8.19.2",
-    "node": "20.x"
+    "node": "18.x"
   },
   "scripts": {
     "dev:client": "webpack serve --config ./webpack.dev.js",
